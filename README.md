@@ -5,14 +5,11 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/anthony-bernaert/imac-g3-screen-bezel" />
 </p>
 
->[!NOTE]
->This is a work in progress. STL and CAD files will be released soon.
-
 This repository contains a 3D model of the screen bezel for a slot-loading iMac G3.
 
-The inner screen bezel of these computers strongly deteriorates over time, becoming yellow and brittle; very few iMacs seem spared from this fate. As this part holds the heavy CRT, it will need replacing sooner or later.
+The inner screen bezel of these computers deteriorates over time, becoming yellow and brittle; very few iMacs seem spared from this fate. As this part holds the heavy CRT, it will need replacing sooner or later.
 
-Note that this model is *not* intended to be a perfect replica of the original part. Instead, it has been redesigned for easy 3D printing and for strength as a printed part. This means the ribs, constant thickness, and other typical features for injection-molded parts have been replaced by larger volumes where possible, in an attempt to make the print stronger.
+Note that this model is not intended to be a perfect replica of the original part. Instead, it has been redesigned for easy 3D printing and for strength as a printed part. This means the ribs, constant thickness, and other typical features for injection-molded parts have been replaced by larger volumes where possible, in an attempt to make the print stronger.
 
 ## Features
 - Designed for 3D printing
@@ -49,7 +46,7 @@ If this project has been useful to you and you want to help me paying back all t
 >[!WARNING]
 > **Keep in mind the CRT weighs about 8 kg and is a fragile vacuum tube**: make sure you have a well-tuned printer (i.e. check layer adhesion, extrusion, ...) and use dry filament for strong results. 
 > 
-> Also be warned **that these CRTs can hold a charge at 20-30 kV after power-off and require a proper discharging procedure before handling**.
+> Also be warned **that these CRTs can remain charged up to 20-30 kV after power-off and require a proper discharging procedure before handling**.
 >
 > Proceed at your own risk!
 
