@@ -11,6 +11,8 @@ The inner screen bezel of these computers deteriorates over time, becoming yello
 
 Note that this model is not intended to be a perfect replica of the original part. Instead, it has been redesigned for easy 3D printing and for strength as a printed part. This means the ribs, constant thickness, and other typical features for injection-molded parts have been replaced by larger volumes where possible, in an attempt to make the print stronger.
 
+Many thanks to [Nicolas Robin](https://github.com/nicolas-robin) for 3D scanning the original bezel, which I used as a reference.
+
 ## Features
 - Designed for 3D printing
 - Drop-in replacement
@@ -20,14 +22,14 @@ Note that this model is not intended to be a perfect replica of the original par
 ## Pictures
 CAD model:
 
-<img height="300" alt="CAD Model Front" src="https://github.com/user-attachments/assets/a83d4307-21d8-49eb-bede-758b582e1903" />
-<img height="300" alt="CAD Model Back" src="https://github.com/user-attachments/assets/060c4424-4981-4d82-b4de-05a697f6d607" />
+<img width="300" alt="CAD Model Front" src="https://github.com/user-attachments/assets/f4f3e044-091d-41b8-80aa-71a9522b6aec" />
+<img width="300" alt="CAD Model Back" src="https://github.com/user-attachments/assets/7a65338d-7a5d-4869-a471-7fe7a66df066" />
+
 
 Print (in ASA, light gray):
 
-<img height="300" alt="Print_Front" src="https://github.com/user-attachments/assets/b3859641-ec22-43e3-99b0-215162449f42" />
-<img height="300" alt="Print_Back" src="https://github.com/user-attachments/assets/6aa8d402-3729-4260-8e69-643704125bac" />
-<img height="300" alt="Print_Assembled" src="https://github.com/user-attachments/assets/09d1f01d-31d8-47b0-875e-3e78da189e2d" />
+<img height="400" alt="Print_Assembled_Front" src="https://github.com/user-attachments/assets/02b5caf0-c635-4454-a875-e240574bf87d" />
+<img height="400" alt="Print_Assembled_Back" src="https://github.com/user-attachments/assets/2ed17ad5-b6ef-4b65-a30a-a633a7d5356f" />
 
 
 ## Support this project
@@ -50,7 +52,7 @@ If this project has been useful to you and you want to help me paying back all t
 >
 > Proceed at your own risk!
 
-To print the bezel, a print bed of at least 220 mm x 220 mm is recommended. The parts to be printed are:
+To print the bezel, a print bed of at least 200 mm x 200 mm is recommended. The parts to be printed are:
 - The four quadrants of the bezel
 - Four dowels
 - Power button
